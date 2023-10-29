@@ -1,0 +1,8 @@
+```
+apiVersion: <API version>
+kind: <Kind of object>
+metadata:
+  name:  <Name of the object>
+spec:
+  <Specification of the object>>
+```
